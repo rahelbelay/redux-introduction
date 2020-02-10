@@ -1,1 +1,1 @@
-# reducx intro
+# redux intro
